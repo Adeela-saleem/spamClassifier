@@ -2,8 +2,7 @@
 
 A machine learning web app that classifies SMS messages as **Spam** or **Not Spam**, built with Python, scikit-learn, NLTK, and deployed using Streamlit.
 
-## 🚀 Live Demo
-[Add your Streamlit Cloud link here after deployment]
+![screenshot](SPAM-CLASSIFIER.png)
 
 ## 🛠️ Tech Stack
 - Python
